@@ -1,6 +1,10 @@
-# 🚀 Join Us at InCycling – We're Hiring a Tech Co-Founder
+# 🚀 Join Us in a purpose powered mission, combining circular economy and commercial viability – We're Hiring a Tech Co-Founder
 
-**InCycling** is an early-stage venture on a mission to reduce industrial waste and optimize resource flows in the global chemical sector. We're building a **B2B SaaS platform** to match, trade, and route surplus raw materials – using **SAP integration**, **AI-assisted classification**, and a strong sustainability vision.
+We are an early-stage venture on a mission to reduce industrial waste and optimize resource flows in the global chemical sector. We're building a **B2B SaaS platform** to match, trade, and route surplus raw materials – using **SAP integration**, **AI-assisted classification**, and a strong sustainability vision.
+
+> 🔍 We're not looking for someone to just write code.  
+> We're looking for a **technically sharp, automation-driven CTO**  
+> who builds smart systems using the best tools available – including **AI assistance**.
 
 ---
 
@@ -8,9 +12,9 @@
 
 Chemical manufacturers around the world waste millions in excess material disposal due to lack of digital infrastructure and market access. We’re solving this with:
 
-- A **smart B2B marketplace** for surplus chemicals and materials
-- Direct **SAP & ERP integration** for seamless inventory syncing
-- **AI-driven matching & classification**, based on product specs and industry metadata
+- A **smart B2B marketplace** for surplus chemicals and materials  
+- Direct **SAP & ERP integration** for seamless inventory syncing  
+- **AI-driven matching & classification**, based on product specs and industry metadata  
 - A scalable, secure, modular architecture designed for real industry use
 
 > Think: if Alibaba, SAP, and Clariant built something truly circular together.
@@ -21,57 +25,73 @@ Chemical manufacturers around the world waste millions in excess material dispos
 
 We are Karym & Sascha, the founding team behind InCycling:
 
-- Deep domain knowledge in **chemical supply chains** and **digital health**
-- Business & sustainability strategy, funding know-how, market validation
-- Backed by industry partners and early pilot leads
+- Deep domain knowledge in **chemical supply chains**, **digital health**, and **global markets**
+- Business & sustainability strategy, funding know-how, and pilot access
+- Positioned for **public innovation funding** and early industry traction
 
-We’ve validated the model, clarified the technical challenge, and are now looking for the right **technical mind and builder** to join us as Co-Founder.
+We’ve validated the model, scoped the product, and are now looking for the right **technical co-founder** to help us build it.
 
 ---
 
-## 🧑‍💻 Who We're Looking For – Tech Co-Founder (CTO Track)
+## 🧑‍💻 Who We’re Looking For – Tech Co-Founder (CTO Track)
 
-You are an experienced **full-stack engineer**, **solution architect**, or **SAP-savvy developer** with a builder’s mindset and entrepreneurial curiosity. Ideally, you bring:
+You are an experienced **full-stack engineer**, **solution architect**, or **technical founder** who:
+
+- thrives in **lean teams with high ownership**
+- embraces **AI tools to boost development efficiency**
+- builds products iteratively with sharp trade-off decisions
+
+### Ideal Experience:
 
 - Strong skills in **SAP BTP / CAP / S/4HANA / ERP integration**
-- Interest or experience in **machine learning**, NLP, or rule-based matching
-- Comfort with **cloud-native architecture** (AWS / Azure / GCP)
-- Experience building **early MVPs**, ideally in B2B or SaaS
-- The ability to take ownership of the **technical roadmap**
+- Experience or deep interest in **machine learning**, especially:
+  - NLP (e.g. extracting information from technical specs or SDS)
+  - Product classification, anomaly detection, similarity matching
+- Comfortable with **cloud-native architectures** (e.g. AWS, Azure)
+- Familiar with API-first design, event-based systems, and modular infrastructure
 
-Nice to haves:
-- Experience with **event-driven systems**
-- Background in **logistics, marketplaces, or material sciences**
+---
+
+## 🧠 How You Think & Work
+
+You're not just a coder – you're a system thinker, builder, and optimizer.
+
+You actively use **AI-assisted programming tools** (e.g. GitHub Copilot, Cursor, CodeWhisperer, Claude) to prototype and iterate faster. You know how to:
+
+- Automate repetitive tasks using AI and scripting
+- Evaluate what to build vs. buy vs. integrate
+- Prototype with **low-code/no-code tools** where appropriate
+- Build **robust systems** without building a big team too early
+
+You’re able to design the foundation and get your hands dirty in the early phase – without reinventing the wheel.
 
 ---
 
 ## 🎯 What You’ll Do
 
-- Co-lead the design of InCycling’s product from ground up
-- Own the tech stack, architecture, and scaling path
-- Co-shape strategic direction alongside us
-- Collaborate with early customers & pilots
-- Join us in funding rounds & pitch discussions
-- Option to build and lead the future dev team
+- Co-lead the design of our MVP and core architecture
+- Own and evolve the technical roadmap
+- Build & integrate SAP/ERP connectivity
+- Implement smart data pipelines and ML-powered logic
+- Join funding rounds and define tech hiring strategy
 
 ---
 
 ## 💡 Why Join Us?
 
-- Equity stake as **founding team member**
-- Active role in a **climate-positive, real-world problem**
-- Access to early funding instruments (e.g. EXIST, DeepTech grants)
-- Industrial traction + domain access already secured
-- Full technical freedom in early phase
+- **Co-founder equity** and long-term strategic role
+- Strong purpose: industrial sustainability with real-world impact
+- Industrial traction, domain partnerships, and market access secured
+- A greenfield opportunity to **build the right system from the start**
 
 ---
 
 ## 📫 Get In Touch
 
-If you're curious, let's talk. We're open to remote collaboration (EU time zones preferred), and open to unconventional paths.
+If you're excited to bring together **SAP, AI, and real-world industry transformation**, let’s talk.
 
-- Reach out via [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/)
-- Or email us: `founders@incycling.tech`
+- Reach out via [LinkedIn](https://www.linkedin.com/in/karym-el-sayed-phd-283a534a/)
+- Or email us: `karym@incycling.ai`
 
 Let’s build something real, meaningful, and scalable.
 
